@@ -12,7 +12,7 @@
 
 - **极简界面**：白底、卡片式布局和清晰控件，打开就能开始处理图片。
 - **高质量导出**：支持 PNG / JPG 导出，多模块提供原图优先、高清导出和大尺寸导出能力。
-- **本地处理**：图片选择、编辑和导出主要在设备本地完成，适合处理私人照片。
+- **本地处理**：图片选择、编辑和导出完全在设备本地完成，适合处理私人照片。
 - **作品管理**：导出的作品会保存在系统相册中，也可以在应用内的 Works 页面快速回看。
 - **适合社交发布**：内置拼图、分图和留白画廊等面向分享场景的排版工具。
 
@@ -66,7 +66,8 @@
 - 原图优先导出，支持 JPG / PNG
 
 ### 留白画廊
-<img width="1260" height="2800" alt="CCA0F7E75E913F88E03EDECC3A25737E" src="https://github.com/user-attachments/assets/b2496c1a-a54b-4492-9de6-50ff22781d07" />
+<img width="1260" height="2800" alt="CCA0F7E75E913F88E03EDECC3A25737E" src="https://github.com/user-attachments/assets/b2496c1a-a54b-4492-9de6-50ff22781d07" /><img width="1280" height="1600" alt="6198acd051a035c235bf7152f94ba87c" src="https://github.com/user-attachments/assets/e76a1050-0b0b-48e9-be62-60059b63d773" />
+
 
 把照片排成一页有呼吸感的长图画廊，适合旅行记录、影像作品集和图文海报。
 
