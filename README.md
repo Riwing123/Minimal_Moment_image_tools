@@ -100,9 +100,6 @@
 - 当前版本：1.1
 - 主要技术：Java、AndroidX、Material Components、ViewBinding、Glide
 
-## 反馈
-
-如果你在使用中遇到问题，或希望增加新的模板、布局、导出格式和相框样式，欢迎通过 Issues 提交反馈。
 
 ---
 
